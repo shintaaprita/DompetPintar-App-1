@@ -9,7 +9,7 @@ Anggota Tim:
 - Sinta Aprita Sari - 701230307
  (Role: Backend, Membuat Desain UI, Penyusunan product backlog, coding modul beranda, testing, deployment)
 - Susilawati - 701230103 
-(Role: Desain Activity Diagram, Class Diagram, Use Case Diagram, Penyusunan product backlog, testing, deployment)
+(Role: Desain Activity Diagram, Use Case Diagram, Penyusunan product backlog, testing, deployment)
 
 
 📖 Deskripsi Singkat Dompetku
